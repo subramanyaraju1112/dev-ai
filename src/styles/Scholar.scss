@@ -1,0 +1,25 @@
+.container{
+    .text-wrapper{
+        
+
+        .scholar {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'Crimson Text', serif;
+
+                .button {
+                    background-color: hsl(210,79%, 57%) !important;
+                }
+        
+
+            p {
+                font-size: larger;
+            }
+        
+        }
+
+    }
+}
